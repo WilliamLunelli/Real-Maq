@@ -1,0 +1,179 @@
+body{
+
+    margin: 0;
+    padding: 0;
+
+
+}
+
+html ,body ,#home{
+
+    height: 100%;
+    overflow-x: hidden;
+
+}
+
+#home{
+
+    background: linear-gradient(to right, #09203f 0%, #537895 100%);
+
+
+}
+
+.capa{
+
+    text-align: center;
+
+}
+
+
+.letra {
+
+    font-size: 60px;
+    font-weight: 650;
+    color: #537895;
+
+}
+
+.letra-menor{
+
+    font-size: 45px;
+    font-weight: 500;
+    color:#808080 ;
+
+}
+
+.navbar-real{
+    
+    background: rgba(0, 0, 0, 0.6);
+    padding: 0px 0px;
+
+    
+
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+
+}
+
+.navbar-light .navbar-nav .nav-link {
+
+    padding: 25px;
+    
+
+}
+
+.Textos-carousel{
+
+    font-size: 70px;
+    position: relative;
+    top: 200px;
+
+}
+
+.caixa{
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+
+}
+
+.cor-maior{
+
+    color: #3a5b78;
+    
+
+}
+
+.cor{
+
+    color: #808080;
+
+}
+
+
+.letra-titulo{
+
+    font-size: 4em;
+
+}
+
+.letra-p{
+
+    font-size: 1.6em;
+
+}
+
+
+
+.back-eletrica{
+
+    background: url(imagens/electric-4198293_1280.jpg) no-repeat;
+    align-items: center;
+    height: 600px;
+    position: relative;
+    right: -10px;
+    align-items: center;
+
+    
+
+}
+
+.back-civil{
+
+    background: url(imagens/civil.png) no-repeat;
+    align-items: center;
+    height: 600px;
+    position: relative;
+    right: -10px;
+    align-items: center;
+
+
+}
+
+.back-pintura{
+
+    background: url(imagens/pintor.jpg) no-repeat;
+    align-items: center;
+    height: 600px;
+    position: relative;
+    right: -10px;
+    align-items: center;
+
+
+}
+
+.back-metalico{
+
+    background: url(imagens/estrutura.jpg) no-repeat;
+    align-items: center;
+    height: 600px;
+    width: 1280px;
+    position: relative;
+    right: -10px;
+    align-items: center;
+
+
+}
+
+
+.icon{
+
+    border-radius: 30px;
+    background-color: #b0c4de;
+
+}
+
+@media (max-width: 991.98px) { 
+
+    .navbar-sla{
+
+        background-color: #537895;
+        border-radius: 20px;
+        margin-bottom: 10px;
+
+    }
+
+ }
