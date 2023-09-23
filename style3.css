@@ -3,7 +3,6 @@ body{
     margin: 0;
     padding: 0;
 
-
 }
 
 html ,body ,#conteudo{
@@ -52,7 +51,7 @@ html ,body ,#conteudo{
 }
 
 .navbar-light .navbar-nav .nav-link {
-    color: black;
+    color: white;
 
 }
 
@@ -81,7 +80,7 @@ html ,body ,#conteudo{
 
 .cor-maior{
 
-    color: #3a5b78;
+    color: #1E90FF;
     
 
 }
@@ -168,27 +167,45 @@ html ,body ,#conteudo{
 h1{
 
     font-size: 3.3em;
-    color: #b0c4de;
+    color: #1E90FF;
 
 }
 
 h2{
 
-    color: #b0c4de;
+    color: #1E90FF;
     font-size: 1.7em;
 
 }
 
 h3{
 
-    color: #537895;
+    color: #1E90FF;
 
 }
 
 p{
 
     font-size: 1.3;
-    color: #b0c4de;
+    color: #1E90FF;
+
+}
+
+i{
+
+    color: #1E90FF;
+
+}
+
+.margin-1{
+
+    margin-top: 150px;
+
+}
+
+.margin-2{
+
+    margin-top: 155px;
 
 }
 
@@ -196,12 +213,30 @@ p{
 /* Medium devices (tablets, less than 992px)*/
 @media (max-width: 991.98px) { 
 
+    body{
+
+        overflow-y: hidden;
+
+    }
+
     .navbar-sla{
 
         background-color: #537895;
         border-radius: 20px;
         margin-bottom: 10px;
 
+    }
+
+    .margin-1{
+
+        margin-top: 160px;
+
+    }
+
+    .margin-2{
+
+        margin-top: 30px;
+    
     }
 
 }
