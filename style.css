@@ -177,3 +177,14 @@ html ,body ,#home{
     }
 
  }
+
+@media (max-width: 767.98px) { 
+
+    .carousel-item{
+
+        height: 300px;
+        width: 400px;
+
+    }
+
+  }
