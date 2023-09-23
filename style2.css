@@ -208,3 +208,25 @@ p{
     }
 
  }
+
+ @media (max-width: 767.98px) {
+
+    .container .row .brun{
+
+        margin: 0px 10px;
+
+    }
+
+    .titulo-2{
+
+        font-size: 1.3em;
+
+    }
+
+    .titulo{
+
+        font-size: 1.7em;
+
+    }
+
+  }
