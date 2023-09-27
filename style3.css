@@ -209,6 +209,14 @@ i{
 
 }
 
+.card-footer{
+
+    color: white;
+    background-color: #09203f;
+    padding: 30px;
+
+}
+
 
 /* Medium devices (tablets, less than 992px)*/
 @media (max-width: 991.98px) { 
