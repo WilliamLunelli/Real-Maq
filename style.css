@@ -183,12 +183,6 @@ html ,body ,#home{
 
  @media (max-width: 767.98px) { 
 
-    .carousel-item{
-
-        height: 500px;
-        width: 500px;
-
-    }
 
     .textin{
 
@@ -212,35 +206,28 @@ html ,body ,#home{
 
     }
 
+    .carousel-inner{
+
+        padding-top: 150px;
+        height: 700px;
+
+    }
+
 
 
   }
 
-  @media (max-width: 575.98px) { 
+  @media (max-width 300px ) { 
 
-    .carousel-item{
+    .carousel-inner{
 
-        margin-top: 130px;
-        height: 450px;
-        width: 500px;
-        padding-top: 40px;
-
-    }
-
-     .icon{
-
-        margin-right: 100px;
+        border: 1px solid red;
+        width: 450px;
+        padding: 0px;
+        align-items: center;
+        height: 600px;
 
     }
-
-    .carousel-item .Textos-carousel{
-
-        margin-right: 100px;
-
-    }
-
-
 
    }
-
 
