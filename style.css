@@ -216,13 +216,14 @@ html ,body ,#home{
 
   }
 
-
   @media (max-width: 575.98px) { 
 
     .carousel-item{
 
-        height: 400px;
+        margin-top: 130px;
+        height: 450px;
         width: 500px;
+        padding-top: 40px;
 
     }
 
@@ -239,5 +240,7 @@ html ,body ,#home{
     }
 
 
+
    }
+
 
