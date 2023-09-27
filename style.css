@@ -209,6 +209,7 @@ html ,body ,#home{
     .carousel-inner{
 
         padding-top: 170px;
+        padding-bottom: 10px;
         height: 700px;
 
     }
