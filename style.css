@@ -169,6 +169,14 @@ html ,body ,#home{
 
 }
 
+.card-footer{
+
+    color: white;
+    background-color: #09203f;
+    padding: 20px;
+
+}
+
 @media (max-width: 991.98px) { 
 
     .navbar-sla{
@@ -209,7 +217,6 @@ html ,body ,#home{
     .carousel-inner{
 
         padding-top: 170px;
-        padding-bottom: 10px;
         height: 700px;
 
     }
@@ -230,5 +237,6 @@ html ,body ,#home{
 
     }
 
+   }
    }
 
