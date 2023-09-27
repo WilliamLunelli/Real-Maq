@@ -185,8 +185,8 @@ html ,body ,#home{
 
     .carousel-item{
 
-        height: 300px;
-        width: 400px;
+        height: 500px;
+        width: 500px;
 
     }
 
@@ -203,6 +203,41 @@ html ,body ,#home{
 
     }
 
+    .icon{
+
+        font-size: 1em;
+        align-items: center;
+        margin-right: 10px;
+        
+
+    }
+
 
 
   }
+
+
+  @media (max-width: 575.98px) { 
+
+    .carousel-item{
+
+        height: 600px;
+        width: 500px;
+
+    }
+
+     .icon{
+
+        margin-right: 100px;
+
+    }
+
+    .carousel-item .Textos-carousel{
+
+        margin-right: 100px;
+
+    }
+
+
+   }
+
